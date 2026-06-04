@@ -1,4 +1,4 @@
-<h1 align="center">Sri Shankar</h1>
+<h1 align="center">Srishank</h1>
 
 <p align="center">
 Artificial Intelligence Student @ NITK
