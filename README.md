@@ -20,7 +20,7 @@ Artificial Intelligence Student @ NITK
 
 <p align="center">
   <a href="https://github.com/srishanksd">GitHub</a>
-  <hr>
+  ---
   <a href="https://www.instagram.com/srishank_sd">Instagram</a>
 </p>
 
