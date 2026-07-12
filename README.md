@@ -39,6 +39,9 @@ Artificial Intelligence Student @ NITK
   <a href="https://huggingface.co/srishanksd" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" />
   </a>
+  <a href="https://leetcode.com/u/srishanksd/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" alt="LeetCode" />
+</a>
 </p>
 
 
