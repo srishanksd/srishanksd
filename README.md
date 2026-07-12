@@ -18,14 +18,23 @@ Artificial Intelligence Student @ NITK
 
 ## Connect
 
+
+
+
+<h3 align="center">Connect with me</h3>
+
 <p align="center">
-  <a href="https://github.com/srishanksd">GitHub</a>
-  
-<hr>
-
-
-  <a href="https://www.instagram.com/srishank_sd">Instagram</a>
+  <a href="https://github.com/srishanksd" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/srishank_sd" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
+  </a>
 </p>
+
+
+
 
 <!--
 **srishanksd/srishanksd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
