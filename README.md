@@ -12,7 +12,7 @@ Artificial Intelligence Student @ NITK
 
 ## GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srishanksd&theme=github_dark" />
+[![Sri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srishanksd&theme=github-compact)](https://github.com/srishanksd)
 
 ---
 
