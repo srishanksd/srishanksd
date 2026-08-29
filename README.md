@@ -10,9 +10,7 @@ Artificial Intelligence Student @ NITK
 
 ---
 
-## GitHub Stats
 
-[![Sri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srishanksd&theme=github-compact)](https://github.com/srishanksd)
 
 ---
 
