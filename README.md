@@ -12,16 +12,6 @@ Artificial Intelligence Student @ NITK
 
 
 
----
-
-## Connect
-
-
-
-
-
-
-
 <!--
 **srishanksd/srishanksd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
